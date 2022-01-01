@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 # Movie-Search-API-V2
 Another version of Movie Search App.
+
+You have to get the API KEY from the MovieDB (TMDB) 
+Link: https://www.themoviedb.org/documentation/api
+
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
